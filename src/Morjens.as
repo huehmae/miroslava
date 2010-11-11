@@ -16,5 +16,8 @@ package
 		private function funcion2():void{
 			
 		}
+		private function funcion3():void{
+			
+		}
 	}
 }
