@@ -10,6 +10,7 @@ package
 			this.graphics.drawCircle(0,0,100);	
 			this.graphics.endFill();
 			
+			// terve
 		}
 	}
 }
