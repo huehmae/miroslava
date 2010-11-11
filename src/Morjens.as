@@ -6,6 +6,7 @@ package
 		{
 			// Comments!
 			// Second comment
+			// third comment
 		}
 	}
 }
