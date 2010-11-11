@@ -8,5 +8,9 @@ package
 			// Second comment
 			// third comment
 		}
+		
+		private function funcion():void{
+			
+		}
 	}
 }
