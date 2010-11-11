@@ -14,6 +14,11 @@ package
 		{
 			trace("jyräääää !!!");
 			trace("tyräääää !!!");
+			trace("tyräääää !!!");
+			trace("tyräääää !!!");
+			trace("tyräääää !!!");
+			trace("tyräääää !!!");
+			trace("tyräääää !!!");
 		}
 		private function funcion2():void{
 			
