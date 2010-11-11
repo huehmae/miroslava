@@ -10,14 +10,12 @@ package
 			// nelijäs kommentti
 		}
 		
-		private function funcion():void
+		private function funcionUltimateKiller666():void
 		{
-			trace("jyräääää");			
+			trace("jyräääää !!!");
+			trace("tyräääää !!!");
 		}
 		private function funcion2():void{
-			
-		}
-		private function funcion3():void{
 			
 		}
 	}
