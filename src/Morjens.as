@@ -10,8 +10,9 @@ package
 			// nelijäs kommentti
 		}
 		
-		private function funcion():void{
-			
+		private function funcion():void
+		{
+			trace("jyräääää");			
 		}
 	}
 }
