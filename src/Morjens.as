@@ -7,6 +7,7 @@ package
 			// Comments!
 			// Second comment
 			// third comment
+			// nelijäs kommentti
 		}
 		
 		private function funcion():void{
